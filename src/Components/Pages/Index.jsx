@@ -655,7 +655,7 @@ function Index() {
             </div>
             {/* footer bottom */}
             <div className="footer-bottom container-fluid  text-white bg-dark p-2 text-center">
-                <p className="mb-0 small">Ac Project<strong>Frost Quest</strong> — All Rights Reserved.</p>
+                <p className="mb-0 small"><strong>Frost Quest</strong> — All Rights Reserved.</p>
             </div>
         </>
     )
